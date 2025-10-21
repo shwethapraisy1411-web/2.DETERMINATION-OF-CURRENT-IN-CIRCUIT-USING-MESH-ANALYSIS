@@ -22,6 +22,22 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="868" height="598" alt="image" src="https://github.com/user-attachments/assets/3e7f1fbd-f410-4b4a-9672-edb1f3381792" />
+<img width="879" height="593" alt="image" src="https://github.com/user-attachments/assets/dda1cf37-b4bd-470d-b54d-d3e983acb372" />
+
+
+**TABULATION**
+
+<img width="940" height="645" alt="image" src="https://github.com/user-attachments/assets/8815ac5b-4d76-4131-b6ba-685758feb739" />
+<img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/b0c2b9c2-4169-49c5-afb0-f18ee16d2463" />
+
+**CALCULATION**
+
+<img width="963" height="489" alt="image" src="https://github.com/user-attachments/assets/003fe832-68f7-4b8a-9c6f-9f55152a6fc3" />
+<img width="907" height="963" alt="image" src="https://github.com/user-attachments/assets/adb2275a-c8f5-4f0d-b522-a4db1b32e5c8" />
+<img width="938" height="391" alt="image" src="https://github.com/user-attachments/assets/40ef535a-1385-49a9-af9b-211d42c3c296" />
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -45,4 +61,6 @@ a)	The current across 330Ω resistor is	A.
 b)	The current across 560Ω resistor is	A.
 
 c)	The current across 470Ω resistor is	A.
+
+<img width="940" height="553" alt="image" src="https://github.com/user-attachments/assets/4b2d6ff3-f718-4004-a816-058514f13c8d" />
 
